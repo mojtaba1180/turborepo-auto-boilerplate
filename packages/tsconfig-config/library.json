@@ -1,0 +1,3 @@
+{
+  "extends": "@waldronmatt/tsconfig-config/lib.json"
+}
